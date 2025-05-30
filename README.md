@@ -13,7 +13,7 @@ JavaScript (Vanilla JS only): To add interactive behaviors like menu toggles or 
 ### 1. Access the Figma Design
 - Go to the provided Figma link:
     
-    https://www.figma.com/design/sm9DHhMwT84hL3vv3Rxkkg/Test-Assignment?node-id=4-1423&t=LfmzHBrjezvkcVoH-1
+    **https://www.figma.com/design/sm9DHhMwT84hL3vv3Rxkkg/Test-Assignment?node-id=4-1423&t=LfmzHBrjezvkcVoH-1
   Review all the page sections available.
   Choose any 6 sections you want to build for your landing page.
 
@@ -69,4 +69,4 @@ Get the live URL of your deployed page.
 Deliverables 
 Live URL of your deployed landing page. 
 (Optional) Codebase repository link (GitHub or any other platform).  
-  
+  **
